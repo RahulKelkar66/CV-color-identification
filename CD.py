@@ -72,4 +72,3 @@ while (1):
 cv2.destroyWindow()
 
 
-
